@@ -1,5 +1,5 @@
 # Gephi
-Ancient Near Eastern network graphs (in Gephi file format)
+Ancient Near Eastern network graphs (in Gephi file format). Each network is a work-in-progress!! Use at your own risk. The finalized published versions will be made available in the FactGrid Cuneiform Project: https://database.factgrid.de/wiki/FactGrid:Cuneiform_Project
 
 ## Old Assyrian Networks
 [The Old Assyrian Social Network](https://www.researchgate.net/publication/335703724_The_Old_Assyrian_Social_Network_an_analysis_of_the_text_from_Kultepe-Kanesh_1950-1750_BCE), combines classical philological methods with natural language processing and social network analysis, to disambiguate the actors, cliques and groups found in a text corpus of 6,000 cuneiform tablets.
