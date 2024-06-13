@@ -1,4 +1,4 @@
-# Gephi
+# Ancient Network Graphs in Gephi Format
 Ancient Near Eastern network graphs (in Gephi file format). Each network is a work-in-progress!! Use at your own risk. The finalized published versions will be made available in the FactGrid Cuneiform Project: https://database.factgrid.de/wiki/FactGrid:Cuneiform_Project
 
 ## Old Assyrian Networks
